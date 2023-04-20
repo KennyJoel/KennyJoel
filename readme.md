@@ -27,4 +27,4 @@ This is Kuragayala Kenny Joel As an individual deem to develop my logical reason
 
 • Playing Badminton. 
 
-• Playing Video Games on PlayStation (Apex Legends, Fortnite, GTA-5, etc.)
+• Playing Video Games on PlayStation (Apex Legends, Fortnite, GTA-5, etc.) 
