@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Nobody)](https://git.io/typing-svg)
+
 <!--
 **KennyJoel/KennyJoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -28,3 +30,7 @@ This is Kuragayala Kenny Joel As an individual deem to develop my logical reason
 • Playing Badminton. 
 
 • Playing Video Games on PlayStation (Apex Legends, Fortnite, GTA-5, etc.) 
+
+
+  ------
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=KennyJoel&label=Profile%20views&color=0e75b6&style=flat" alt="KennyJoel" /> </p>
