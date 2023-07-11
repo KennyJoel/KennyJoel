@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ks-srikumar/)
-</div>
- -->
-  <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=KennyJoel&show_icons=true&theme=radical&include_all_commits=true" />
+<h3 align="left">Github Stats:</h3>
+  <p>
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=KennyJoel&show_icons=true&theme=dark&include_all_commits=true" />
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KennyJoe&theme=dark" alt="sri1873" /></p>
 
 
 This is Kuragayala Kenny Joel As an individual deem to develop my logical reasoning and critical thinking abilities and able to identify feasible a solution for every problem statement and able to gain knowledge and technical skills.
