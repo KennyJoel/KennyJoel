@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<h3 align="center">Connect with me:</h3>
+
 <div align="center">
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ks-srikumar/)
+
 <h3 align="left">Github Stats:</h3>
   <p>
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=KennyJoel&show_icons=true&theme=dark&include_all_commits=true" />
