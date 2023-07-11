@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Nobody)](https://git.io/typing-svg)
-This is Kuragayala Kenny Joel As an individual deem to develop my logical reasoning and critical thinking abilities and able to identify feasible a solution for every problem statement and able to gain knowledge and technical skills.
+
+This is Kuragayala Kenny Joel. As an individual deem to develop my logical reasoning and critical thinking abilities and able to identify feasible a solution for every problem statement and able to gain knowledge and technical skills.
 
 <h3 align="left">Github Stats:</h3>
   <p>
