@@ -3,10 +3,11 @@
 This is Kuragayala Kenny Joel. As an individual deem to develop my logical reasoning and critical thinking abilities and able to identify feasible a solution for every problem statement and able to gain knowledge and technical skills.
 
 <h3 align="left">Github Stats:</h3>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KennyJoel&theme=dark" alt="KennyJoel" /></p>
   <p>
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=KennyJoel&show_icons=true&theme=dark&include_all_commits=true" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KennyJoel&theme=dark" alt="KennyJoel" /></p>
 
  
   ------
