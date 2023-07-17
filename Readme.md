@@ -9,7 +9,7 @@ This is Kuragayala Kenny Joel. As an individual deem to develop my logical reaso
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=KennyJoel&show_icons=true&theme=dark&include_all_commits=true" />
 </p>
 
- 
+
   ------
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=KennyJoel&label=Profile%20views&color=0e75b6&style=flat" alt="KennyJoel" /> </p>
 
