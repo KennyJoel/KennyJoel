@@ -6,7 +6,7 @@ This is Kuragayala Kenny Joel. As an individual deem to develop my logical reaso
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KennyJoel&theme=dark" alt="KennyJoel" /></p>
   <p>
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=KennyJoel&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height= "150" src="[https://github-readme-stats.vercel.app/api?username=KennyJoel&show_icons=true&theme=dark&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=KennyJoel&show_icons=true&theme=dark&include_all_commits=true)" />
 </p>
 
 
